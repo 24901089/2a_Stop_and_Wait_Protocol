@@ -41,4 +41,4 @@ while True:
 
 ![Screenshot 2025-04-28 134120](https://github.com/user-attachments/assets/ade6a5a2-c3fa-48a9-aa18-7fe9f63a6e3a)
 ## RESULT
-Thus, python program to perform stop and wait protocol was successfully executed.
+Thus, python program to perform stop and wait protocol was successfully executed
